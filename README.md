@@ -1,0 +1,1 @@
+# emulador_linux_raspberry
